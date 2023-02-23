@@ -1,2 +1,7 @@
 server:
   port: 3029
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://admin:admin123@xsmas29.ihmno4p.mongodb.net/?retryWrites=true&w=majority
+      database: my_web_portfolio
